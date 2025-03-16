@@ -44,6 +44,21 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash afzal" height="30" width="40" />
   </a>
 </p>
+<h3>Featured Projects & Designs:</h3>
+<ul>
+  <li><a href="https://www.figma.com/design/X97Qr5wyBW7pPD0eEzSeNT/Artemys-app?node-id=0-1">Artemys App Design on Figma</a></li>
+  <li><a href="https://www.figma.com/design/RT8WQJy9BHsC2eLcfgZCSW/BEAM-APP?node-id=0-1">BEAM App Design on Figma</a></li>
+</ul>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/akash-afzal" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash afzal" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/923349020592" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="WhatsApp Akash" height="30" width="40" />
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
